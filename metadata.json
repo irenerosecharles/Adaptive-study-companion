@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive AI Companion for Academic Learning and Career Readiness",
+  "description": "An integrated educational platform with a Persistent Student Model and four specialized AI engines for academics, assessment, analytics, and career readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
